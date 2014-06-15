@@ -10,7 +10,7 @@
 :syntax on
 :set mouse=a
 
-"
+" the setup of my go development enviroment
 filetype off
 filetype plugin indent off
 set runtimepath+=$GOROOT/misc/vim
