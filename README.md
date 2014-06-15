@@ -1,3 +1,3 @@
-The setup of my .vimrc
+The setup of my .vim
 ---
 
