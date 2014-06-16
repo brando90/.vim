@@ -1,3 +1,12 @@
+"
+"disabiling arrows
+"
+noremap <Up> <NOP>
+noremap <Down> <NOP>
+noremap <Left> <NOP>
+noremap <Right> <NOP>
+
+
 " ---
 "filetype off
 "call pathogen#infect()
